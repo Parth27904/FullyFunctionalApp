@@ -5,7 +5,6 @@ import android.content.Intent
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.webkit.WebViewClient
 import androidx.cardview.widget.CardView
 
 class AndroidDev : AppCompatActivity() {
